@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ali/pc-web-cli": "^2.8.4",
+    "@antv/my-f2-pc": "^0.1.0"
+  }
+}
